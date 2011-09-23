@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">SensorCatcher</string>
+	<string name="button_proximity">近接センサーの感度を表示する</string>
+	<string name="button_accelerometer">加速度センサーの感度を表示する</string>
+	<string name="button_light">明るさセンサーの感度を表示する</string>
+	<string name="button_orientation">傾きセンサーの感度を表示する</string>
+	<string name="button_magnetic_field">地磁気センサーの感度を表示する</string>
+	<string name="button_gyroscope">回転センサーの感度を表示する</string>
+	<string name="button_pressure">圧力センサーの感度を表示する</string>
+	<string name="button_temperature">温度センサーの感度を表示する</string>
+
+	<string name="title_proximity">近接センサーの感度を表示する画面です</string>
+	<string name="title_accelerometer">加速度センサーの感度を表示する画面です</string>
+	<string name="title_light">明るさセンサーの感度を表示する画面です</string>
+	<string name="title_orientation">傾きセンサーの感度を表示する画面です</string>
+	<string name="title_magnetic_field">地磁気センサーの感度を表示する画面です</string>
+	<string name="title_gyroscope">回転センサーの感度を表示する</string>
+	<string name="title_pressure">圧力センサーの感度を表示する</string>
+	<string name="title_temperature">温度センサーの感度を表示する</string>
+	<string name="title_sensor_now">現在のセンサーの値：</string>
+	<string name="title_sensorcheck_text1">
+		センサーの感度・内部の値は端末によって異なります。
+		内部の値を「現在のセンサーの値」に表示します。
+	</string>
+	<string name="message_sensorcheck_na">N/A センサーが存在しません！</string>
+
+</resources>
